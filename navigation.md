@@ -12,9 +12,6 @@
   * [Dev Environment](https://yeopoong.github.io/docker)
   * [Apache Mesos](mesos.md)
   * [Hadoop on Mesos](hadoopOnMesos.md)
-  - - - -
-  * # Infrastructure as Code
-  * [Chef](chef.md)
 
 [BigData]()
 
@@ -22,11 +19,10 @@
   * [MongoDB](mongodb.md)
   - - - -
   * # Hadoop
-  * [Hadoop Install](hadoop_install.md)
+  * [Hadoop](hadoop_install.md)
   - - - -
   * # HBase
   * [HBase](hbase.md)
-  * [HBase to Hive](hbase_to_hive.md)
 
 [DevOps]()
 
@@ -39,12 +35,12 @@
   * # Vagrant 
   * [Vagrant](vagrant.md)
   - - - -
-  * # Chef 
-  * [Chef Solo](chef.md)
-  * # Ansible 
+  * # Infrastructure as Code
+  * [Chef](chef.md)
   * [Ansible](ansible.md)
   * # Build 
   * [Maven](maven.md)
+  * [Gradle](gradle.md)
 
 [FullStack]()
 
