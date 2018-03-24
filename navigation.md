@@ -62,6 +62,7 @@
 [Tools]()
 
   * [Git](git.md)
+  * [SSH](ssh.md)
 
 [gimmick:themechooser](bootstrap)
 

@@ -2,9 +2,9 @@ SSH
 ===
 
 SSH 환경 설정하기
-----------------
 
-### SSH Diorectory
+SSH Diorectory
+--------------
 
 ```
 kyun@kiss:~/.ssh$ ll
@@ -15,7 +15,9 @@ drwxr-xr-x 11 kyun kyun 4096 Feb  4 12:28 ../
 -rw-r--r--  1 kyun kyun  666 Feb  4 12:31 known_hosts
 ```
 
-### SSH KEY 생성
+SSH KEY 생성
+------------
+
 ```
 kyun@kiss:~/.ssh$ ssh-keygen -t rsa
 Generating public/private rsa key pair.
@@ -52,7 +54,9 @@ drwxr-xr-x 11 kyun kyun 4096 Feb  4 13:18 ../
 -rw-r--r--  1 kyun kyun  666 Feb  4 12:31 known_hosts
 ```
 
-### 공개키 복사 
+공개키 복사 
+----------
+
 ```
 kyun@kiss:~/.ssh$ scp id_rsa.pub kyun@localhost:id_rsa.pub 
 kyun@kiss:~/.ssh$ cat id_rsa.pub >> authorized_keys 
