@@ -22,16 +22,14 @@ $ go env
 $ go version 
 ```
 
-### GOROOT 설정
-
+GOROOT 설정
 ```
 export GOROOT=$HOME/go 
 ```
 
-Tip: 설치 경로가 /usr/local/go 또는 C:\Go 라면 GOROOT를 설정할 필요가 없다
+Tip: 설치 경로가 /usr/local/go 또는 C:\Go 라면 GOROOT를 설정할 필요가 없다.
 
-### GOPATH 설정
-
+GOPATH 설정
 ```
 export GOPATH=$HOME/go/work 
 ```
