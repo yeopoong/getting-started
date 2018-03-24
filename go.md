@@ -1,15 +1,16 @@
 Go
 ===
 
-설치 및 환결설정
----------------
-
-### Install
+Install
+-------
 
 ```
 $ wget https://storage.googleapis.com/golang/go1.6.2.linux-amd64.tar.gz  
 $ sudo tar -C /usr/local -xzf go1.6.2.linux-amd64.tar.gz  
 ```
+
+환경설정
+-------
 
 `.bash_profile`
 ```
@@ -20,7 +21,6 @@ export PATH=/usr/local/go/bin:$PATH
 $ go env 
 $ go version 
 ```
-
 
 ### GOROOT 설정
 
@@ -39,5 +39,3 @@ export GOPATH=$HOME/go/work
 ```
 $ sudo go get golang.org/x/tools/cmd/...
 ```
-
-  
