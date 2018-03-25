@@ -6,6 +6,7 @@
 
   * # Cloud
   * [AWS](aws.md)
+  * [Heroku](heroku.md)
 
 [Docker]()
 
@@ -22,6 +23,7 @@
   - - - -
   * # Hadoop
   * [Hadoop](hadoop_install.md)
+  * [Hadoop2](hadoop2_install.md)
   - - - -
   * # HBase
   * [HBase](hbase.md)
@@ -30,15 +32,10 @@
 
   * # Continuous Integration
   * [Jenkins](jenkins.md)
+  * [DevServer](setup.md)
   - - - -
   * # Vagrant 
   * [Vagrant](vagrant.md)
-
-[Build]()
-
-  * # Build 
-  * [Maven](maven.md)
-  * [Gradle](gradle.md)
 
 [FullStack]()
 
@@ -53,10 +50,17 @@
   * [Python](https://yeopoong.github.io/python)
   * [Shell](shell.md)
 
+[Build]()
+
+  * # Build 
+  * [Maven](maven.md)
+  * [Gradle](gradle.md)
+
 [Tools]()
 
   * [Git](git.md)
   * [SSH](ssh.md)
+  * [Jupyter](jupyter.md)
 
 [gimmick:themechooser](bootstrap)
 
