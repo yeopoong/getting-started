@@ -26,11 +26,8 @@
 
 [DevOps]()
 
-  * # Local
-  * [Dev Local](local.md)
-  - - - -
-  * # Dev
-  * [Dev Server](dev.md)
+  * # Continuous Integration
+  * [Jenkins](jenkins.md)
   - - - -
   * # Vagrant 
   * [Vagrant](vagrant.md)

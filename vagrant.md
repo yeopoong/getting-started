@@ -108,6 +108,12 @@ VERSION_ID="12.04"
 $ vagrant box list 
 ```
 
+### remove 
+
+```
+$ vagrant box remove sparkmooc/base 
+```
+
 ### halt 
 
 ```
