@@ -29,7 +29,6 @@
   * [Jenkins](jenkins.md)
   * [DevServer](setup.md)
   - - - -
-  * # Vagrant 
   * [Vagrant](vagrant.md)
 
 [FullStack]()
