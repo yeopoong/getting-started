@@ -4,13 +4,11 @@
 
 [Cloud]()
 
-  * # Cloud
   * [AWS](aws.md)
   * [Heroku](heroku.md)
 
 [Docker]()
 
-  * # Docker
   * [Docker](docker.md)
   * [Dev Environment](https://yeopoong.github.io/docker)
   * [Apache Mesos](mesos.md)
@@ -18,14 +16,11 @@
 
 [BigData]()
 
-  * # NOSQL
   * [MongoDB](mongodb.md)
   - - - -
-  * # Hadoop
   * [Hadoop](hadoop_install.md)
   * [Hadoop2](hadoop2_install.md)
   - - - -
-  * # HBase
   * [HBase](hbase.md)
 
 [DevOps]()
@@ -52,7 +47,6 @@
 
 [Build]()
 
-  * # Build 
   * [Maven](maven.md)
   * [Gradle](gradle.md)
 
