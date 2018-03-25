@@ -1,4 +1,4 @@
-# Keep It Simple & Small
+# Keep It Simple & Stupid
 
 [About](about.md)
 
@@ -6,7 +6,9 @@
 
   * # Cloud
   * [AWS](aws.md)
-  - - - -
+
+[Docker]()
+
   * # Docker
   * [Docker](docker.md)
   * [Dev Environment](https://yeopoong.github.io/docker)
@@ -31,10 +33,9 @@
   - - - -
   * # Vagrant 
   * [Vagrant](vagrant.md)
-  - - - -
-  * # Infrastructure as Code
-  * [Chef](chef.md)
-  * [Ansible](ansible.md)
+
+[Build]()
+
   * # Build 
   * [Maven](maven.md)
   * [Gradle](gradle.md)
