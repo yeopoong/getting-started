@@ -42,5 +42,5 @@ Banking Framework
 SNS
 ---
 
-[gimmick:FacebookLike ( layout: 'buttoncount') ](http://www.facebook.com/yeopoong)  
+[gimmick:FacebookLike ( layout: 'buttoncount') ](https://www.facebook.com/yeopoong)  
 [gimmick:TwitterFollow](@yeopoong)  
