@@ -18,8 +18,8 @@
 
   * [MongoDB](mongodb.md)
   - - - -
-  * [Hadoop](hadoop_install.md)
-  * [Hadoop2](hadoop2_install.md)
+  * [Hadoop](hadoop.md)
+  * [Hadoop2](hadoop2.md)
   - - - -
   * [HBase](hbase.md)
 
