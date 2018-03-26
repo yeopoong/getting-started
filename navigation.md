@@ -56,6 +56,10 @@
   * [SSH](ssh.md)
   * [Jupyter](jupyter.md)
 
+[Etc]()
+
+  * [Term](term.md)
+
 [gimmick:themechooser](bootstrap)
 
 [gimmick:theme (inverse: true)](slate)
