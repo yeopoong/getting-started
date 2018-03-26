@@ -35,13 +35,14 @@
 
   * [Node.js](nodejs.md)
   * [Ionic](ionic.md)
+  * [Django](django.md)
 
 [Language]()
 
   * [Java](java.md)
   * [Scala](scala.md)
   * [Go](go.md)
-  * [Python](https://yeopoong.github.io/python)
+  * [Python](python.md)
   * [Shell](shell.md)
 
 [Build]()
