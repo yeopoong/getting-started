@@ -1,6 +1,7 @@
 Vagrant
 =======
 
+
 Vagrant Install
 ---------------
 
@@ -156,4 +157,5 @@ Reference
 
 1. [Vagrant](https://www.vagrantup.com/docs/virtualbox/configuration.html)
 
+2. [Discover Vagrant Boxes](https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=official%20ubuntu)
 
