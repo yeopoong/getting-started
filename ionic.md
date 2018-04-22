@@ -87,6 +87,13 @@ Share your app with testers, and test on device easily with the Ionic View compa
 http://view.ionic.io
 ```
 
+Add Page
+--------
+
+```
+$ ionic g page login
+```
+
 Reference
 ---------
 

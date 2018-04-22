@@ -34,6 +34,7 @@
 [FullStack]()
 
   * [Node.js](nodejs.md)
+  * [Angular](angular.md)
   * [Ionic](ionic.md)
   * [Django](django.md)
 

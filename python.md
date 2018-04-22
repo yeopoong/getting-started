@@ -44,3 +44,4 @@ Reference
 ---------
 
 1. [https://pip.pypa.io](https://pip.pypa.io)
+1. [Python 3.6.5 documentation](https://docs.python.org/3/)
