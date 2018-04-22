@@ -11,8 +11,31 @@ Installation
 
 ```
 $ npm install -g cordova ionic
+```
+
+```
 $ ionic --version
+$ cordova -v
 $ ionic --help
+$ ionic info
+cli packages: (C:\dev\node-v8.10.0-win-x64\node_modules)
+
+    @ionic/cli-utils  : 1.19.2
+    ionic (Ionic CLI) : 3.20.0
+
+System:
+
+    Node : v8.10.0
+    npm  : 5.6.0
+    OS   : Windows 10
+
+Misc:
+
+    backend : legacy
+```
+
+```
+$ ionic
 ```
 
 Getting Started

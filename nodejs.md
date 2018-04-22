@@ -4,11 +4,12 @@ Node.js
 Installation
 ------------
 
-`nodejs.org`
+`https://nodejs.org`
 
 ```
 node --version
 node -v
+npm -v
 ```
 
 ```javascript
@@ -21,7 +22,7 @@ $ node
 Docs 
 ----
 
-[Document](https://nodejs.org/en/docs/) : 
+[Document](https://nodejs.org/en/docs/): 
 
 Example
 -------
