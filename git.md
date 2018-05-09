@@ -31,7 +31,7 @@ $ git clone git@github.com:yeopoong/yeopoong.github.io.git
 ### Indexing 
 
 ```
-$ git add finaname 
+$ git add filename 
 ```
 
 ### Commit 
@@ -51,7 +51,7 @@ $ git remote -v
 $ git remote show origin 
 ```
 
-### 원격저장소 삭제
+### 원격저장소 추가
 
 ```
 $ git remote add origin 저장소
