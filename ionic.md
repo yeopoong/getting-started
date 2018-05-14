@@ -62,6 +62,8 @@ maps ............... ionic1 An Ionic starter project using Google Maps and a sid
 $ ionic start myApp blank 
 $ ionic start myApp tabs 
 $ ionic start myApp sidemenu 
+or
+$ ionic start myApp blank --type ionic1
 ```
 
 Run your App
@@ -70,6 +72,8 @@ Run your App
 Run your app in the browser (great for initial development):
 ```
 $ ionic serve 
+or
+$ ionic serve --v1
 
 http://localhost:8100
 ```
@@ -121,4 +125,5 @@ Reference
 ---------
 
 * http://ionicframework.com/getting-started/
+* https://ionicframework.com/docs/
 * http://blog.jeonghwan.net/2016/08/03/ionic-hello-world.html
