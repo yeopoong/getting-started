@@ -37,3 +37,22 @@ export GOPATH=$HOME/go/work
 ```
 $ sudo go get golang.org/x/tools/cmd/...
 ```
+
+Hello
+-----
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Printf("hello, world\n")
+}
+```
+
+Reference
+---------
+
+[Getting Started](https://golang.org/doc/install?download=go1.10.3.windows-amd64.zip)
+[디스커버리 Go](https://github.com/jaeyeom/gogo)
